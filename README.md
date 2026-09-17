@@ -3,6 +3,7 @@
 A tool-dense, end-to-end **metabolomics** pipeline on **real data only**. It downloads a real untargeted plasma-metabolomics dataset for polycystic ovary syndrome (PCOS) directly from the **MetaboLights** repository (fixed accession, no manual step, no simulated fallback), identifies differential metabolites, maps them to compound and pathway databases, performs KEGG pathway enrichment, renders annotated metabolic pathway maps, classifies patients with machine learning, and characterises the top biomarkers chemically.
 
 ![PCA](figures/pca.png)
+![KEGG Pathwway render](figures/render.png)
 
 ## Motivation
 
