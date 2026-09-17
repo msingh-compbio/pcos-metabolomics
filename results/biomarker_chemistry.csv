@@ -1,0 +1,9 @@
+metabolite,SMILES,MW,logP,H_donors,H_acceptors,TPSA
+Dihomo-gamma-linolenic acid,CCCCCC=CCC=CCC=CCCCCCCC(=O)O,306.49,6.44,1,1,37.3
+"7Z,10Z,13Z,16Z-Docosatetraenoic acid",CCCCCC=CCC=CCC=CCC=CCCCCCC(=O)O,332.53,7.0,1,1,37.3
+"11Z,14Z,17Z-Eicosatrienoic acid",CCC=CCC=CCC=CCCCCCCCCCC(=O)O,306.49,6.44,1,1,37.3
+Palmitoleic acid,CCCCCCC=CCCCCCCCC(=O)O,254.41,5.33,1,1,37.3
+Palmitelaidic acid,CCCCCCC=CCCCCCCCC(=O)O,254.41,5.33,1,1,37.3
+10Z-Heptadecenoic acid,CCCCCCC=CCCCCCCCCC(=O)O,268.44,5.72,1,1,37.3
+10E-Heptadecenoic acid,CCCCCCC=CCCCCCCCCC(=O)O,268.44,5.72,1,1,37.3
+Gamma-Linolenic acid,CCCCCC=CCC=CCC=CCCCCC(=O)O,278.44,5.66,1,1,37.3
